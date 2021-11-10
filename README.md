@@ -12,3 +12,7 @@ string.replace(/ /g, "").length
 5. Next, this application will substract the total letter of vowel with total character of input to get the total letter of consonant
 
 ![Function](function.PNG)
+
+## Extra
+* I put
+
