@@ -11,4 +11,4 @@ string.replace(/ /g, "").length
 4. Beside, this application also will check whether the input is match with the vowel letter array and count total vowel letters and return it using string.match(/[aeiou]/gi);
 5. Next, this application will substract the total letter of vowel with total character of input to get the total letter of consonant
 
-![Function](function.png)
+![Function](function.PNG)
